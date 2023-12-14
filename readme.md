@@ -1,1 +1,1 @@
-Computer Assignments for Machine Learning 
+Computer Assignments for Machine Learning BSAN6080
